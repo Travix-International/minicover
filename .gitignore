@@ -212,14 +212,14 @@ project.lock.json
 #####
 
 # Approval Test
-*.received*
+*.received.*
 
 coverage
 artifacts
 coverage-html
 coverage.json
 coverage.xml
-coverage-hits.txt
+coverage.hits
 opencovercoverage.xml
 clover.xml
 coveralls.json
